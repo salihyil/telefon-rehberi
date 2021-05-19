@@ -1,0 +1,16 @@
+input[type="search"] {
+    background-image: url("svg/search-solid.svg");
+    background-repeat: no-repeat;
+    background-size: 12px;
+    background-position: 5px center;
+}
+
+input{
+    padding-left: 25px;
+    border-radius: 50px;
+    border-style: dashed;
+    
+}
+input:focus{
+    outline: 0;
+}
